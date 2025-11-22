@@ -22,7 +22,7 @@
 - Windows-specific issues with LiveKit server installation (needed to download .exe directly)
 
 ## LinkedIn Post
-[Link to LinkedIn post with video demonstration]
+https://www.linkedin.com/posts/kavya-gupta-b65751365_10daysofvoiceagents-ai-aivoice-activity-7397956838572589056-0SgU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFqzhj0BOt9UHW9Wpu3o_5o3ZObb_OEa6CU
 
 ## Tech Stack Used
 - **TTS:** Murf Falcon API
